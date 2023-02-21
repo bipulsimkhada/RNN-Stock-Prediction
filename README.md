@@ -1,7 +1,7 @@
 # RNN-Stock-Prediction
 
 ## Description
-To predict Google stock for 20 days of Jan 2017 using stock dataset from Jan 2012 to Dec 2016. Using Long short-term memory networks (LSTM) which is subset of RNN
+To predict Google stock for 20 days of Jan 2017 using stock dataset from Jan 2012 to Dec 2016. Using Long short-term memory networks (LSTM) which is subset of Recurrent Neutral Network (RNN).
 
 ## Libraries 
 * Keras
